@@ -1,0 +1,3 @@
+pyuic5 GUI.ui -o GUI.py (has issues with current Anaconda due to spaces in path name)
+
+python -m PyQt5.uic.pyuic GUI.ui -o GUI.py
