@@ -6,8 +6,9 @@ This software
 ![userinterface](https://i.imgur.com/HrG27vE.png)
 
 ## Examples
-### Widefield retinotopy
-
-### 2P orientation mapping
-
+### Retinotopy
+![Imgur](https://i.imgur.com/Apn2FYO.png)
+### Orientation mapping
+![Imgur](https://i.imgur.com/apFfs1D.png)
 ### 2P photostimulation mapping
+![Imgur](https://i.imgur.com/rwMmW1p.png)
