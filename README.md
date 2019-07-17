@@ -1,5 +1,5 @@
 # STAMovieMaker
-This software 
+This software generates stimulus triggered average movies and images for a variety of stimuli and imaging types.
 
 
 ## User interface
